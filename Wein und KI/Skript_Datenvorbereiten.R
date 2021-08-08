@@ -219,6 +219,8 @@ barplot(S_Alco$Alcohol.mean ~S_Alco$Quality,
 ## ------------------- Explorative Statistik ---------------------------
 
 ## Korrelieren die unabhängigen Beobachtungen unertereinander?
+## Gibt es Merkmale, die nur ein geringes "Loading" zeigen?
+## Das soll durch die Faktorenanalyse geprüft werden.
 
 # Sub-Datensatz ohne die Qualitätsnote:
 Daten_FA <- Daten[,1:11]
