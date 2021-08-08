@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Hängt Deine Anforderung mit einem Problem zusammen?**
-Bitte beschreibe das Problem, insbesondere mit Issue-Nr, mit dem Deine anforderung in Verbindung steht.
+Bitte beschreibe das Problem, insbesondere mit Issue-Nr, mit dem Deine Anforderung in Verbindung steht.
 
 **Beschreibung Deiner Anforderung:**
 Bitte beschreibe Deine Anforderung so ausführlich wie nötig. Folgende Punkte geben Dir einen Leitfaden:
