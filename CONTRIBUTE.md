@@ -5,4 +5,6 @@ Zum *Erlernen* gehört auch der *Erfahrungsaustausch* und wenn Du daran interssi
 
 Dass die Projektmitarbeit in einer *respektvollen* Art und Weise ablaufen soll, ist selbstverständlich.
 
-Entschließt Du Dich zur Teilnahme an diesem Projekt, akzeptierst Du die erwähnte Lizenz. 
+Entschließt Du Dich zur Teilnahme an diesem Projekt, akzeptierst Du die erwähnte [Lizenz](https://github.com/SuprenumDE/weinanalyse/blob/main/LICENSE). 
+
+Wir freuen uns über Deine Teilnahme!
