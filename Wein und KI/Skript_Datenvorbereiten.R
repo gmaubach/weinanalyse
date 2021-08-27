@@ -43,6 +43,7 @@ boxplot(Daten$VolatileAcidity, main = "Boxplot VolatileAcidity",
 par(mfrow = c(1,1))
 
 # CitricAcid:
+###########
 summary(Daten$CitricAcid)
 par(mfrow = c(1,2))
 hist(Daten$CitricAcid, main = "Histogramm CitricAcid",
